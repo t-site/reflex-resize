@@ -15,7 +15,7 @@ $ bash reflex-resize-1.sh input.jpeg output.png
 ![original](miku-noisy.png "ORIGINAL")
 ![reflex-resize applied](miku-noisy-5x.png "reflex-resize applied")
 
-###What is improved
+### What is improved
 Double resample algolithm
 First, spline resampler for smooth and noise blur.
 It can eliminate JPEG particle noise.
